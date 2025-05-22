@@ -1,0 +1,43 @@
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fff0f5;
+  margin: 0;
+  padding: 0;
+}
+h1 {
+  background-color: #ff69b4;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+table {
+  width: 90%;
+  margin: 20px auto;
+  border-collapse: collapse;
+  background-color: #ffe4ec;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+}
+th, td {
+  border: 1px solid #ffb6c1;
+  padding: 15px;
+  text-align: center;
+}
+th {
+  background-color: #ffc0cb;
+  color: #a1005d;
+}
+.img-mini {
+  width: 100px;
+  height: auto;
+  border-radius: 8px;
+}
+a {
+  text-decoration: none;
+  color: #d63384;
+  font-weight: bold;
+}
+a:hover {
+  color: #ad1457;
+}
